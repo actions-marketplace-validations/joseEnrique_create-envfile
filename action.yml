@@ -1,5 +1,5 @@
-name: "Create .env file"
-description: "Github Action to create a .env file with Github Secrets"
+name: "Create .envs file"
+description: "Github Action to create a .envs file with Github Secrets"
 author: "Forest Anderson"
 branding:
   icon: "briefcase"
